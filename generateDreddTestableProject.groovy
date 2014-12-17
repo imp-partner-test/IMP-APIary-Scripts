@@ -10,7 +10,7 @@ println ("generating dredd testable project: " + projName)
 println ("************************************")
   
 // 1. the base apiary
-def baseFolder = "IMP-North-Implemented"
+def baseFolder = "IMP-North-Implemented-V2"
 //def apiBaseFileName = "apiaryOrig.apib"					// local
 def apiBaseFileName = baseFolder + "/apiary.apib"
 //def apiBaseFileName = "apiary.apib"
